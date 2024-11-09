@@ -1,4 +1,5 @@
     👋 Hi, My name is Yusuff. I'm a Data Analyst and  Business Intellegence Analyst.
+    ⭐ i'm Proficient in Excel,PowerBI and SQL.
 - 🌱 I’m currently learning Data Storytelling
 - I'm currently seeking employment Opportunities in Data driven organization
 - 💞️ I’m looking to collaborate on Global Project
